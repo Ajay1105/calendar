@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.rbc-day-bg:hover {
+  background-color: #C4DFDF !important;
+}
+
+.rbc-date-cell {
+  font-size: 1.5rem;
+  font-weight: 200;
+}
+
+.rbc-header{
+  font-size: 1.8rem !important;
+  font-weight: 600 !important;
+  height: fit-content !important;
+}
+
+.rbc-toolbar-label {
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: rgb(37, 66, 197)
+}
+
+.rbc-allday-cell{
+  padding-top: 1.2rem;
+}
+
+.css-42b2qy{
+  width: fit-content !important;
+}
+
+.chakra-select__icon{
+  visibility: hidden;
+}
