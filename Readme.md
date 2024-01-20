@@ -1,6 +1,10 @@
 # MERN + Docker Calendar
 This is a MERN + Docker Calendar to view all the events happening, filter them as per need and add or delete them.
 
+- **Project Link:** -> https://calendar-frontend-xceed.vercel.app/
+- **Backend API Link:** -> https://xceed-bakcend.onrender.com
+
+Note: As backend is hosted on free server it may sometime does not respose. Feel free to contact me in case API is not responding.
 -----
 
 ## Table of Contents
