@@ -1,4 +1,4 @@
-# MERN Calendar
+# MERN + Docker Calendar
 This is a MERN + Docker Calendar to view all the events happening, filter them as per need and add or delete them.
 
 -----
