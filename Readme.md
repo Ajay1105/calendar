@@ -4,7 +4,7 @@ This is a MERN + Docker Calendar to view all the events happening, filter them a
 - **Project Link:** -> https://calendar-frontend-xceed.vercel.app/
 - **Backend API Link:** -> https://calendar-backend-lc9b.onrender.com
 
-###### Note
+### Note
  As backend is hosted on free server it may sometime does not respose. Feel free to contact me in case API is not responding.
 -----
 
